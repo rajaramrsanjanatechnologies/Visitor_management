@@ -1,0 +1,4 @@
+include README.md
+include requirements.txt
+recursive-include visitor_management *.json *.js *.py *.html *.css *.txt
+
