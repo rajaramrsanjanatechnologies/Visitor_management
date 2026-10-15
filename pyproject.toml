@@ -3,3 +3,7 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 [tool.bench.frappe-dependencies]
 frappe = ">=16.0.0-dev,<17.0.0"
+[project.urls]
+Homepage = "https://github.com/rajaramrsanjanatechnologies/Visitor_management"
+Documentation = "https://github.com/rajaramrsanjanatechnologies/Visitor_management#readme"
+Source = "https://github.com/rajaramrsanjanatechnologies/Visitor_management"
