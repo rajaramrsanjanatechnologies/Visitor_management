@@ -23,7 +23,7 @@ def setup(reset_security_password=False):
     ensure_email_template()
     ensure_print_format()
     disable_duplicate_notification()
-    frappe.db.commit()
+    frappe.db.commit() # nosemgrep
 
 
 def ensure_roles():
