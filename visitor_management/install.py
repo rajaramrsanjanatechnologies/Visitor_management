@@ -1,9 +1,9 @@
 import frappe
 
 
-SECURITY_EMAIL = "security@aqjapparels.com"
+SECURITY_EMAIL = "security@sanjanatechnologies.com"
 SECURITY_PASSWORD = "Aqj@Visitor#2026"
-MANAGEMENT_EMAIL = "erpadmin@aqjapparels.com"
+MANAGEMENT_EMAIL = "erpadmin@sanjanatechnologies.com"
 
 
 def after_install():
